@@ -7,8 +7,6 @@ Este proyecto tiene como objetivo analizar los datos de cuatro tiendas con el fi
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Requisitos Previos](#requisitos-previos)
-- [Instalación](#instalación)
-- [Uso del Proyecto](#uso-del-proyecto)
 - [Metodología de Análisis](#metodología-de-análisis)
 - [Resultados](#resultados)
 - [Contribuciones](#contribuciones)
